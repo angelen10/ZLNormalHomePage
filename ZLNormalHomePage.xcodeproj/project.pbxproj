@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		401EF3AC1D99132500433E4A /* NSObject+YYModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 401EF3A81D99132500433E4A /* NSObject+YYModel.m */; };
 		401EF3AD1D99132500433E4A /* YYClassInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 401EF3AA1D99132500433E4A /* YYClassInfo.m */; };
+		401EF3B31D99260D00433E4A /* ZLCategoryCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 401EF3B21D99260D00433E4A /* ZLCategoryCollectionViewCell.m */; };
+		401EF3B61D9928B900433E4A /* ZLVideoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 401EF3B51D9928B900433E4A /* ZLVideoTableViewCell.m */; };
+		401EF3B91D992E5800433E4A /* ZLVideoCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 401EF3B81D992E5800433E4A /* ZLVideoCollectionViewCell.m */; };
 		405B24681D990E5D00AF7DBA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 405B24671D990E5D00AF7DBA /* main.m */; };
 		405B246B1D990E5D00AF7DBA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 405B246A1D990E5D00AF7DBA /* AppDelegate.m */; };
 		405B24731D990E5D00AF7DBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 405B24721D990E5D00AF7DBA /* Assets.xcassets */; };
@@ -25,6 +28,12 @@
 		401EF3A91D99132500433E4A /* YYClassInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYClassInfo.h; sourceTree = "<group>"; };
 		401EF3AA1D99132500433E4A /* YYClassInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYClassInfo.m; sourceTree = "<group>"; };
 		401EF3AB1D99132500433E4A /* YYModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYModel.h; sourceTree = "<group>"; };
+		401EF3B11D99260D00433E4A /* ZLCategoryCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZLCategoryCollectionViewCell.h; sourceTree = "<group>"; };
+		401EF3B21D99260D00433E4A /* ZLCategoryCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZLCategoryCollectionViewCell.m; sourceTree = "<group>"; };
+		401EF3B41D9928B900433E4A /* ZLVideoTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZLVideoTableViewCell.h; sourceTree = "<group>"; };
+		401EF3B51D9928B900433E4A /* ZLVideoTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZLVideoTableViewCell.m; sourceTree = "<group>"; };
+		401EF3B71D992E5700433E4A /* ZLVideoCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZLVideoCollectionViewCell.h; sourceTree = "<group>"; };
+		401EF3B81D992E5800433E4A /* ZLVideoCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZLVideoCollectionViewCell.m; sourceTree = "<group>"; };
 		405B24631D990E5D00AF7DBA /* ZLNormalHomePage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZLNormalHomePage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		405B24671D990E5D00AF7DBA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		405B24691D990E5D00AF7DBA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -93,6 +102,12 @@
 				405B24851D990FE800AF7DBA /* ZLVideoInfo.h */,
 				405B24861D990FE800AF7DBA /* ZLVideoInfo.m */,
 				401EF3A61D99132500433E4A /* YYModel */,
+				401EF3B11D99260D00433E4A /* ZLCategoryCollectionViewCell.h */,
+				401EF3B21D99260D00433E4A /* ZLCategoryCollectionViewCell.m */,
+				401EF3B41D9928B900433E4A /* ZLVideoTableViewCell.h */,
+				401EF3B51D9928B900433E4A /* ZLVideoTableViewCell.m */,
+				401EF3B71D992E5700433E4A /* ZLVideoCollectionViewCell.h */,
+				401EF3B81D992E5800433E4A /* ZLVideoCollectionViewCell.m */,
 			);
 			path = ZLNormalHomePage;
 			sourceTree = "<group>";
@@ -181,8 +196,11 @@
 			files = (
 				405B246B1D990E5D00AF7DBA /* AppDelegate.m in Sources */,
 				405B247F1D990E9600AF7DBA /* ZLHomeTableViewController.m in Sources */,
+				401EF3B61D9928B900433E4A /* ZLVideoTableViewCell.m in Sources */,
 				405B24681D990E5D00AF7DBA /* main.m in Sources */,
 				401EF3AC1D99132500433E4A /* NSObject+YYModel.m in Sources */,
+				401EF3B31D99260D00433E4A /* ZLCategoryCollectionViewCell.m in Sources */,
+				401EF3B91D992E5800433E4A /* ZLVideoCollectionViewCell.m in Sources */,
 				405B24871D990FE800AF7DBA /* ZLVideoInfo.m in Sources */,
 				405B24841D990FD500AF7DBA /* ZLCategory.m in Sources */,
 				401EF3AD1D99132500433E4A /* YYClassInfo.m in Sources */,
