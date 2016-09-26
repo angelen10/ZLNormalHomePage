@@ -1,0 +1,427 @@
+{
+    "status": "success",
+    "code": 200,
+    "message": "查询分类列表成功",
+    "result": [
+               {
+               "id": 1,
+               "name": "音标",
+               "alias": "yinbiao",
+               "view": 1489,
+               "videoInfoList": [
+                                 {
+                                 "id": 13,
+                                 "title": "零基础学习英语音标视频教程",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/74ceb292408d6718cb818293b039c5e2.jpg",
+                                 "view": 997,
+                                 "teacherName": "Nickcen",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 16,
+                                 "commentCount": 3,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 12,
+                                 "title": "48个国际音标发音视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/f05d2843f5ecf9ec9448c98a9e6bbe80.jpg",
+                                 "view": 398,
+                                 "teacherName": "佚名",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 21,
+                                 "commentCount": 6,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 11,
+                                 "title": "赖世雄美语音标视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/ac10f838d75821919094ae0f0fe98878.jpg",
+                                 "view": 122,
+                                 "teacherName": "赖世雄",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 3,
+                                 "commentCount": 1,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 10,
+                                 "title": "谢孟媛kk音标教学视频全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/f5135950a08d7a8bf1309194c28c5e39.jpg",
+                                 "view": 205,
+                                 "teacherName": "谢孟媛",
+                                 "videoType": "youku",
+                                 "recommended": 1,
+                                 "collected": 0,
+                                 "videoCount": 10,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 }
+                                 ]
+               },
+               {
+               "id": 2,
+               "name": "单词",
+               "alias": "danci",
+               "view": 1156,
+               "videoInfoList": [
+                                 {
+                                 "id": 87,
+                                 "title": "英语单词拼读视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/245894d3fc2312adc2df4d70ac38abfe.jpg",
+                                 "view": 300,
+                                 "teacherName": "阿明",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 15,
+                                 "commentCount": 1,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 86,
+                                 "title": "快速记单词视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/feef4bc8174da15db4207262d38f980f.jpg",
+                                 "view": 183,
+                                 "teacherName": "阿明",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 14,
+                                 "commentCount": 1,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 85,
+                                 "title": "英语词汇立体记忆视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/d868c261f412f2c728c40ad2944e8b5e.jpg",
+                                 "view": 62,
+                                 "teacherName": "刘莉",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 50,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 84,
+                                 "title": "零起步学英语单词视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/105091a820f208c7e2714723dfa70328.jpg",
+                                 "view": 103,
+                                 "teacherName": "刘悦",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 30,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 }
+                                 ]
+               },
+               {
+               "id": 3,
+               "name": "语法",
+               "alias": "yufa",
+               "view": 824,
+               "videoInfoList": [
+                                 {
+                                 "id": 139,
+                                 "title": "初中英语语法大全视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/7e6792475241be93c33070a96cfd059a.jpg",
+                                 "view": 228,
+                                 "teacherName": "阿明",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 65,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 138,
+                                 "title": "英语语法入门视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/fb11223b0d8f2f0820aad4640718ef21.jpg",
+                                 "view": 205,
+                                 "teacherName": "Nick  cen",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 28,
+                                 "commentCount": 3,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 137,
+                                 "title": "崔荣容英语语法学习视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/78e465cf2de8f5992d34e089f85b616c.jpg",
+                                 "view": 957,
+                                 "teacherName": "崔荣容",
+                                 "videoType": "youku",
+                                 "recommended": 1,
+                                 "collected": 0,
+                                 "videoCount": 50,
+                                 "commentCount": 2,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 136,
+                                 "title": "英语语法讲座（美语）视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/804698326701e19b394c1019fb3e0b8b.jpg",
+                                 "view": 54,
+                                 "teacherName": "佚名",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 10,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 }
+                                 ]
+               },
+               {
+               "id": 4,
+               "name": "口语",
+               "alias": "kouyu",
+               "view": 436,
+               "videoInfoList": [
+                                 {
+                                 "id": 63,
+                                 "title": "常用英语口语100句视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/b3f78038c10877d73e4a5809d0331b65.jpg",
+                                 "view": 202,
+                                 "teacherName": "佚名",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 20,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 62,
+                                 "title": "英语情景口语速成视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/ce1720e649aae99bb666c8b208a95b9d.jpg",
+                                 "view": 55,
+                                 "teacherName": "郝彬",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 16,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 61,
+                                 "title": "超级口语秀视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/2fbec355859d4c2bf9ad6c77802a8ab4.jpg",
+                                 "view": 34,
+                                 "teacherName": "海伦",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 12,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 60,
+                                 "title": "老外教你说口语视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/e29034b604f3e66d9cd9efd25e5aa145.jpg",
+                                 "view": 77,
+                                 "teacherName": "佚名",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 59,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 }
+                                 ]
+               },
+               {
+               "id": 5,
+               "name": "听力",
+               "alias": "tingli",
+               "view": 251,
+               "videoInfoList": [
+                                 {
+                                 "id": 102,
+                                 "title": "雅思听力视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/9189eb5dcc04b9c477dd35b5f0b33eed.jpg",
+                                 "view": 194,
+                                 "teacherName": "汤洁",
+                                 "videoType": "youku",
+                                 "recommended": 1,
+                                 "collected": 0,
+                                 "videoCount": 35,
+                                 "commentCount": 1,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 101,
+                                 "title": "托福听力视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/12cdbad545193d158e8f44bb039edb1d.jpg",
+                                 "view": 28,
+                                 "teacherName": "高勇",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 14,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 100,
+                                 "title": "英语六级听力视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/7b623a3c2500e8b5582ecbb9708cc4c1.jpg",
+                                 "view": 16,
+                                 "teacherName": "周冰",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 2,
+                                 "commentCount": 1,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 99,
+                                 "title": "英语四级听力视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/1535bca20c25bacaf80c3ddd1888ec8e.jpg",
+                                 "view": 20,
+                                 "teacherName": "周冰",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 12,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 }
+                                 ]
+               },
+               {
+               "id": 6,
+               "name": "阅读",
+               "alias": "yuedu",
+               "view": 138,
+               "videoInfoList": [
+                                 {
+                                 "id": 112,
+                                 "title": "2016考研英语作文视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/4aabbaae3db049bf7686c588267d1b14.jpg",
+                                 "view": 19,
+                                 "teacherName": "何凯文",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 5,
+                                 "commentCount": 2,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 111,
+                                 "title": "雅思阅读视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/1c6b20898c55482f85b3139a4c32e326.jpg",
+                                 "view": 22,
+                                 "teacherName": "史心语",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 35,
+                                 "commentCount": 1,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 110,
+                                 "title": "托福阅读视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/c36eef352abc620f3447b0a37e24ffea.jpg",
+                                 "view": 26,
+                                 "teacherName": "李静超",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 10,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 109,
+                                 "title": "英语四级阅读视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/2e376d888fa571e8285d7f27386e47c9.jpg",
+                                 "view": 20,
+                                 "teacherName": "赵南望",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 9,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 }
+                                 ]
+               },
+               {
+               "id": 7,
+               "name": "作文",
+               "alias": "zuowen",
+               "view": 112,
+               "videoInfoList": [
+                                 {
+                                 "id": 119,
+                                 "title": "英语写作系列（美语）视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/e39f9884277631168476545059c39727.jpg",
+                                 "view": 27,
+                                 "teacherName": "佚名",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 9,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 118,
+                                 "title": "英文写作视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/77d4a22292b02b04961550423901d290.jpg",
+                                 "view": 19,
+                                 "teacherName": "Jamaica Conner",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 9,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 117,
+                                 "title": "英语写作视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/429cc69b74ab36786fedfdc36a4d174b.jpg",
+                                 "view": 24,
+                                 "teacherName": "张筝",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 29,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 },
+                                 {
+                                 "id": 116,
+                                 "title": "雅思写作视频教程全集",
+                                 "cover": "http://english.6ag.cn/uploads/video-info/b0554ef83214426c506bbeb809ad9b7d.jpg",
+                                 "view": 11,
+                                 "teacherName": "Aki",
+                                 "videoType": "youku",
+                                 "recommended": 0,
+                                 "collected": 0,
+                                 "videoCount": 28,
+                                 "commentCount": 0,
+                                 "collectionCount": 0
+                                 }
+                                 ]
+               }
+               ]
+}
